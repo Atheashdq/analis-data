@@ -32,7 +32,7 @@ with st.sidebar:
     with col1:
         st.write(' ')
     with col2:
-        st.image(""
+        st.image("https://raw.githubusercontent.com/Atheashdq/analis-data/blob/master/dashboard/logo.JPG"
                  , width=100)
     with col3:
         st.write(' ')
